@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato';
+}
+
+
+.btm-rt{
+    position: absolute;
+    bottom: 3px;
+    right: 2px;
+    color:white;
+    float: right;
+}
