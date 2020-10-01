@@ -1,0 +1,16 @@
+body{
+    font-family: 'Domine';
+}
+
+h2{
+    font-size: 100px;
+}
+
+.centext {
+    text-align: center;
+}
+
+.greybg{
+    background-color:#f0eded ;
+}
+
